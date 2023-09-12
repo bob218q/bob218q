@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bob218) <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bob-xq)-->
-[![Github](https://img.shields.io/badge/GitHub-Follow%20Me-red)](https://github.com/bob218q)
+[![Github](https://img.shields.io/badge/GitHub-Follow%20Me-green)](https://github.com/bob218q)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bob218) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-blue)](https://www.kaggle.com/onlybob)
 
