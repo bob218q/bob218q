@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning more about CyberSecurity
 - 👯 I’m looking to collaborate on Data visualization
 - 🤔 I’m looking for help with ...
+- - ⚡ Fun fact: My favorite song is First Day of my life
 <!--
 - 📫 How to reach me: 
 -->
-- ⚡ Fun fact: My favorite song is First Day of my life
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bob218) <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bob-xq)-->
