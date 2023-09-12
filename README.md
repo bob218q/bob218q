@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about CyberSecurity
 - 👯 I’m looking to collaborate on Data visualization
 - 🤔 I’m looking for help with ...
-- - ⚡ Fun fact: My favorite song is First Day of my life
+- ⚡ Fun fact: My favorite song is First Day of my life
 <!--
 - 📫 How to reach me: 
 -->
